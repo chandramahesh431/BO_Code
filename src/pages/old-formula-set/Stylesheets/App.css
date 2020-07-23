@@ -1,0 +1,10 @@
+.containerApp {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(19, 1fr);
+  grid-template-rows: repeat(72, 1fr);
+}
+
+.total-count {
+  font-size: 0.875rem !important;
+}

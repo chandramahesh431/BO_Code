@@ -1,0 +1,12 @@
+.main {
+  box-sizing: border-box;
+  grid-row-start: 12;
+  grid-row-end: 73;
+  grid-column-start: 2;
+  grid-column-end: 20;
+  background: #202020;
+  z-index: 5;
+  position: relative;
+  justify-items: center;
+  overflow: hidden;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>System Status Big White Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="System-Status-Big-White-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="64" height="64"></rect>
+        <line x1="1.5" y1="11.5" x2="1.5" y2="11.5" id="Line" stroke="#979797" stroke-linecap="square"></line>
+        <polygon id="Fill-1" fill="#FFFFFF" points="28.9554286 20 27 21.1737143 33.4845714 31.9908571 27 42.8285714 28.9554286 44 36.1428571 31.9897143"></polygon>
+    </g>
+</svg>

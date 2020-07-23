@@ -1,0 +1,47 @@
+.grid {
+  display: grid;
+}
+
+.none {
+  display: none;
+}
+
+.opt {
+  grid-column-end: span 2;
+  grid-row-start: 2;
+  z-index: 10;
+  position: relative;
+}
+
+.opt-3 {
+  grid-column-start: 3;
+  grid-row-end: span 1;
+  grid-template-columns: 3fr 2fr;
+}
+
+.opt-3 ul {
+  grid-column-start: 1;
+  grid-column-end: span 1;
+  background: #404040;
+  margin: 0;
+  list-style-type: none;
+  color: white;
+  font-family: Arial;
+  padding: 0;
+  font-stretch: condensed;
+  font-weight: bold;
+  font-size: 1.09vw;
+  line-height: 2.77vh;
+}
+
+.opt ul li {
+  margin: 0;
+  border: 1px solid white;
+  color: white;
+  cursor: default;
+  padding: 0 0 0 0.39vw;
+}
+
+.opt ul li:hover {
+  background: #303030;
+}

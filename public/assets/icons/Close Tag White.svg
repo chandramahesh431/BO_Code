@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3.0-ALERTS-&amp;-EVENTS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0.5-ALERTS-WINDOW---FILTERS-APPLIED" transform="translate(-235.000000, -129.000000)">
+            <g id="Group-2-Copy" transform="translate(108.000000, 120.000000)">
+                <g id="Group-7" transform="translate(127.000000, 9.000000)">
+                    <path d="M8,0 C3.58844444,0 1.77635684e-15,3.58888889 1.77635684e-15,8 C1.77635684e-15,12.4111111 3.58844444,16 8,16 C12.4111111,16 16,12.4111111 16,8 C16,3.58888889 12.4111111,0 8,0" id="Path" fill="#FFFFFF"></path>
+                    <polygon id="Fill-1" fill="#000000" transform="translate(7.999778, 8.000000) rotate(45.000000) translate(-7.999778, -8.000000) " points="7.40718519 2.66666667 7.40718519 7.40740741 2.66644444 7.40740741 2.66644444 8.59259259 7.40718519 8.59259259 7.40718519 13.3333333 8.59237037 13.3333333 8.59237037 8.59259259 13.3331111 8.59259259 13.3331111 7.40740741 8.59237037 7.40740741 8.59237037 2.66666667"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

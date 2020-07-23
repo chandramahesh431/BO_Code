@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Stand Conflict Alert White Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Stand-Conflict-Alert-White-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="*Style*-/-Icon-/-Grid-/-24x24">
+            <rect id="Rectangle-Copy-4" fill-opacity="0.116791214" fill="#50E3C2" fill-rule="evenodd" x="4" y="1" width="16" height="1"></rect>
+            <rect id="Rectangle-Copy-5" fill-opacity="0.116791214" fill="#50E3C2" fill-rule="evenodd" x="4" y="22" width="16" height="1"></rect>
+            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(4.000000, 1.000000)" fill="#50E3C2" fill-opacity="0.116791214">
+                <rect id="Rectangle-Copy-4" x="0" y="0" width="16" height="1"></rect>
+                <rect id="Rectangle-Copy-5" x="0" y="21" width="16" height="1"></rect>
+            </g>
+            <line x1="12" y1="2" x2="12" y2="22" id="Line-2" stroke="#50E3C2" stroke-width="0.05" stroke-linecap="square"></line>
+            <line x1="2" y1="12" x2="22" y2="12" id="Line-2" stroke="#50E3C2" stroke-width="0.05" stroke-linecap="square"></line>
+            <polygon id="Path-2" stroke="#50E3C2" stroke-width="0.05" points="11.9838953 2 2 12.0074397 11.9838953 22 22 12.0074397"></polygon>
+            <polygon id="Path-3" stroke="#50E3C2" stroke-width="0.05" points="11.9863074 2 4.86185798 4.85319898 2 11.987229 4.86185798 19.135498 11.9863074 22 19.1230535 19.135498 22 12 19.1230535 4.85319898"></polygon>
+            <rect id="Rectangle-2" stroke="#50E3C2" stroke-width="0.05" x="3.025" y="3.025" width="17.95" height="17.95"></rect>
+            <circle id="Oval-Copy" stroke="#50E3C2" stroke-width="0.05" cx="12" cy="12" r="9"></circle>
+            <circle id="Oval" stroke="#50E3C2" stroke-width="0.05" cx="12" cy="12" r="8"></circle>
+            <rect id="Rectangle-2" stroke="#50E3C2" stroke-width="0.05" x="4.025" y="1.025" width="15.95" height="21.95"></rect>
+            <path d="M22.975,4.025 L1.025,4.025 L1.025,19.975 L22.975,19.975 L22.975,4.025 Z" id="Rectangle-2" stroke="#50E3C2" stroke-width="0.05"></path>
+            <line x1="0" y1="24" x2="24" y2="0" id="Line" stroke="#50E3C2" stroke-width="0.05" stroke-linecap="square"></line>
+            <line x1="5.68e-14" y1="0" x2="24" y2="24" id="Line" stroke="#50E3C2" stroke-width="0.05" stroke-linecap="square"></line>
+            <rect id="Rectangle-2" stroke="#50E3C2" stroke-width="0.05" x="8.025" y="2.025" width="7.95" height="19.95"></rect>
+            <path d="M21.975,8.025 L2.025,8.025 L2.025,15.975 L21.975,15.975 L21.975,8.025 Z" id="Rectangle-2" stroke="#50E3C2" stroke-width="0.05"></path>
+        </g>
+        <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group-4" transform="translate(2.000000, 0.000000)" fill="#FFFFFF">
+            <g id="Group-5">
+                <polygon id="Fill-1" points="-9.23705556e-14 0 -9.23705556e-14 24 2.4 24 19.2 24 19.2 18 16.8 18 16.8 21.6 2.4 21.6 2.4 2.4 16.8 2.4 16.8 6 19.2 6 19.2 0"></polygon>
+                <path d="M12.6,14.99976 L13.113,15.51276 L14.4,16.79976 L15.5694,15.63036 L19.2,11.99976 L14.4,7.19976 L12.6,8.99976 L14.4,10.79976 L10.2,10.79976 C7.2174,10.79976 4.8,13.21716 4.8,16.19976 L4.8,16.79976 L7.2,16.79976 L7.2,16.19976 C7.2,14.54556 8.5458,13.19976 10.2,13.19976 L14.4,13.19976 L12.6,14.99976 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

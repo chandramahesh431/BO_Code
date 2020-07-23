@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Search Blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Search-Blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <path d="M3,8.5 C3,5.46766667 5.47041157,3 8.50611791,3 C11.5357063,3 14,5.46766667 14,8.5 C14,11.5323333 11.5357063,14 8.50611791,14 C5.47041157,14 3,11.5323333 3,8.5 L3,8.5 Z M23,21.3627368 L14.5936842,12.9564211 C15.4991579,11.7128421 16.0410526,10.1844211 16.0410526,8.52631579 C16.0410526,4.36947368 12.6831579,1 8.52631579,1 C4.36947368,1 1,4.36947368 1,8.52631579 C1,12.6831579 4.36947368,16.0526316 8.52631579,16.0526316 C10.1878947,16.0526316 11.7163158,15.5072632 12.9587368,14.596 L21.3627368,23 L23,21.3627368 Z" id="Fill-1" fill="#8BC9F2"></path>
+    </g>
+</svg>

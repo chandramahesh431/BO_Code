@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Warning White</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Warning-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(3.000000, 3.000000)">
+            <polygon id="Fill-1" fill="#FFFFFF" transform="translate(9.000000, 14.555556) scale(1, -1) translate(-9.000000, -14.555556) " points="8.11111111 15.4444444 9.88888889 15.4444444 9.88888889 13.6666667 8.11111111 13.6666667"></polygon>
+            <polygon id="Fill-4" fill="#FFFFFF" transform="translate(9.000000, 10.277778) scale(1, -1) translate(-9.000000, -10.277778) " points="8.11111111 12.7777778 9.88888889 12.7777778 9.88888889 7.77777778 8.11111111 7.77777778"></polygon>
+            <path d="M9,2.23606798 L1.61803399,17 L16.381966,17 L9,2.23606798 Z" id="Triangle" stroke="#FFFFFF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

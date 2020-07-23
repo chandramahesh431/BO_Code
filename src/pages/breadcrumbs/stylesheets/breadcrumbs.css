@@ -1,0 +1,56 @@
+.breadscrum {
+  box-sizing: border-box;
+  grid-row-start: 11;
+  grid-column-start: 2;
+  grid-column-end: col-end;
+  z-index: 10;
+  padding-left: 1rem;
+  position: relative;
+  align-items: center;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+#bread {
+  display: flex;
+  flex-direction: row;
+}
+#Link {
+  color: white !important;
+  text-decoration: none;
+  font-size: 1.17vw;
+  line-height: 4.17vh;
+  font-family: HoneywellSans-Medium;
+}
+#Link:after {
+  display: inline-block;
+  padding: 0 0.5rem;
+  color: #6c757d;
+  content: "/";
+}
+
+#Link:active {
+  color: #6c757d;
+  text-decoration: none;
+  cursor: initial;
+}
+#Link:after {
+  display: inline-block;
+  padding: 0 0.5rem;
+  color: #6c757d;
+  content: "/";
+}
+
+ul li:last-child #Link {
+  color: black;
+  cursor: text;
+  color: #6c757d !important;
+}
+ul li:last-child #Link::after {
+  display: inline-block;
+  padding: 0 0.5rem;
+  content: "";
+}

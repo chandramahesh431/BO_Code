@@ -1,0 +1,49 @@
+.sidebar {
+  box-sizing: border-box;
+  grid-row-start: 6;
+  grid-column-start: 1;
+  grid-row-end: 73;
+  grid-column-end: span 1;
+  background: #505050;
+  display: grid;
+  grid-template-rows: repeat(8, 1fr) 40%;
+  cursor: default;
+}
+
+.sidetab {
+  box-sizing: border-box;
+  text-align: center;
+  grid-row-end: span 1;
+  color: white;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 1.17vw;
+  padding-top: 0.47vw;
+}
+.sidetab:hover {
+  background: #303030;
+}
+.sidetab-1 {
+  grid-row-start: 1;
+}
+.sidetab-2 {
+  grid-row-start: 2;
+}
+.sidetab-3 {
+  grid-row-start: 3;
+}
+.sidetab-4 {
+  grid-row-start: 4;
+}
+.sidetab-5 {
+  grid-row-start: 5;
+}
+.sidetab-6 {
+  grid-row-start: 6;
+}
+.sidetab-7 {
+  grid-row-start: 7;
+}
+.sidetab-8 {
+  grid-row-start: 8;
+}

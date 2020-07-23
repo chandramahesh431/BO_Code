@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Sort by</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,0 L10,5.00202388 L9.25,5.752 L5,1.5 L0.75,5.752 L0,5.00202388 L5,0 Z" id="path-1"></path>
+        <path d="M5,8 L10,13.0020239 L9.25,13.752 L5,9.50148551 L0.75,13.753 L0,13.0020239 L5,8 Z" id="path-3"></path>
+    </defs>
+    <g id="Sort-by" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Sort-Icon" transform="translate(7.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#707070" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Icon-/-Tint-/-Actionable-/-Interactive" mask="url(#mask-2)">
+                <g transform="translate(-3.000000, -1.000000)" id="*Style*-/-Color-/-Action-/-Secondary">
+                    <g>
+                        <rect id="Dark-Theme" fill="#E0E0E0" x="0" y="0" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#979797" fill-rule="nonzero" transform="translate(5.000000, 11.001012) rotate(-180.000000) translate(-5.000000, -11.001012) " xlink:href="#path-3"></use>
+            <g id="Icon-/-Tint-/-Actionable-/-Interactive" mask="url(#mask-4)">
+                <g transform="translate(-3.000000, -2.000000)" id="*Style*-/-Color-/-Action-/-Secondary">
+                    <g>
+                        <rect id="Dark-Theme" fill="#E0E0E0" x="0" y="0" width="16" height="17"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
