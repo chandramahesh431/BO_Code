@@ -177,7 +177,7 @@ const Routes = (props) => {
           );
         }}
       />
-      <Redirect to="/Formulas"></Redirect>
+      {/* <Redirect to="/Formulas"></Redirect> */}
     </Switch>
   );
 };
