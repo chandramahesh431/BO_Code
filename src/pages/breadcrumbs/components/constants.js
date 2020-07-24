@@ -49,5 +49,5 @@ export const pathArray = [
     name: "View Formula",
     url: "/Formulas/viewFormula",
   },
-  { route: "", name: "Fomulas", url: "/Formulas" },
+  { route: "", name: "Formulas", url: "/Formulas" },
 ];

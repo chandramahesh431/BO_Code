@@ -6,10 +6,8 @@ const RenderText = (id) => {
 };
 
 const Localization = (WrappedComponent) => {
-  return class extends React.Component {
-    render() {
-      return WrappedComponent({ ...this.props, localizeText: RenderText });
-    }
+  return (props) => {
+    return WrappedComponent({ ...props, localizeText: RenderText });
   };
 };
 

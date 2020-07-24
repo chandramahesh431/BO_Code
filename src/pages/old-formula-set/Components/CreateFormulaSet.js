@@ -7,6 +7,8 @@ import { loginSuccessActionCreator } from "../../../actions/authentication/index
 import { connect } from "react-redux";
 import UserManagement from "../../user-management/components/users";
 import AuthManagement from "../../auth/components/index";
+import Localization from "./../../../hoc/localization/index";
+import { useHistory } from "react-router-dom";
 
 function CreateFormulaSet(props) {
   const [showRecipes, setShowRecipes] = useState(false);
@@ -15,6 +17,7 @@ function CreateFormulaSet(props) {
   const setSelected = props.setSelected;
 
   const { getUsers1, loginSuccessActionCreator } = props;
+  let history = useHistory();
 
   const ref = useRef();
   function useOnClickOutside(ref, handler) {
@@ -56,7 +59,8 @@ function CreateFormulaSet(props) {
     setShowRecipes(false);
     setSelectedRecipe([]);
     setProductName("");
-    props.setShowCreateFormulaSet(false);
+    history.push("/");
+    // props.setShowCreateFormulaSet(false);
   }
 
   return (
@@ -70,8 +74,8 @@ function CreateFormulaSet(props) {
       }}
       ref={ref}
     >
-      <UserManagement />
-      <AuthManagement />
+      {/* <UserManagement />
+      <AuthManagement /> */}
 
       <Card
         style={{
@@ -81,7 +85,7 @@ function CreateFormulaSet(props) {
         className="card"
       >
         <Card.Header
-          title="Create Formula Set"
+          title={props.localizeText("CreateFormulaSet")}
           style={{
             fontSize: "2.34vw",
             padding: "1.97vh 1.25vw 0",
@@ -179,4 +183,7 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 //export default CreateFormulaSet
-export default connect(mapStateToProps, mapDispatchToProps)(CreateFormulaSet);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Localization(CreateFormulaSet));
