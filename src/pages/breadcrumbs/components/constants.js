@@ -30,11 +30,6 @@ export const pathArray = [
     url: "/Formulas/createProduct",
   },
   {
-    route: "Formulas",
-    name: "Formulas",
-    url: "/Formulas",
-  },
-  {
     route: "createSimilarFormula",
     name: "Create Similar Formula",
     url: "/Formulas/createSimilarFormula",
