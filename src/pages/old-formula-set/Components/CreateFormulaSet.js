@@ -45,7 +45,7 @@ function CreateFormulaSet(props) {
       };
     }, [ref, handler]);
   }
-  useOnClickOutside(ref, () => clearStates());
+  //useOnClickOutside(ref, () => clearStates());
 
   useEffect(() => {
     if (selectedRecipe.length > 0) {
