@@ -21,7 +21,7 @@
     "underscore": "1.9.2"
   },
   "devDependencies": {
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "prettier": "1.19.1",
     "prop-types": "15.7.2"
   },
